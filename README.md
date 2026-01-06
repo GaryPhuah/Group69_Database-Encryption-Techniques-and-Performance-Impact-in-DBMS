@@ -72,15 +72,16 @@ The benchmark simulates **real-world enterprise scenarios** where sensitive attr
 ```text
 database-security-scalability-benchmark/
 ├── mysql-tests/
-│   ├── data_generator.sql
-│   └── benchmark.sql
+│   ├── schema.sql            # Database & table creation
+│   ├── data_generator.sql    # Stored procedure + data generation
+│   └── benchmark.sql         # Query benchmarking + AES/TDE tests
 ├── mongodb-tests/
-│   ├── data_generator.js
-│   └── benchmark.js
+│   ├── data_generator.js     # Insert millions of documents
+│   └── benchmark.js          # Queries, aggregation, AES tests
 ├── docs/
-│   ├── query-latency.png
-│   └── storage-comparison.png
-└── README.md
+│   ├── query-latency.png     # Visual benchmark: latency comparison
+│   └── storage-comparison.png # Visual benchmark: storage comparison
+└── README.md                 # Project overview and instructions
 ```
 ## Sample Benchmark Results (5M Records)
 
