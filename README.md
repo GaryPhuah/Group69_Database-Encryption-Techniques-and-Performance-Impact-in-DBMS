@@ -84,7 +84,7 @@ database-security-scalability-benchmark/
 ```
 ## Sample Benchmark Results (5M Records)
 
-## 📊 Sample Benchmark Results (5M Records)
+## Sample Benchmark Results (5M Records)
 
 | Test Case | MySQL (No Encryption) | MySQL (TDE) | MySQL (Field-Level AES) | MongoDB (No Encryption) | MongoDB (FLE) |
 |---------|----------------------|------------|-------------------------|-------------------------|---------------|
