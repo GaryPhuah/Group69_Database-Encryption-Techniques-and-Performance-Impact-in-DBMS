@@ -28,7 +28,7 @@ The benchmark simulates **real-world enterprise scenarios** where sensitive attr
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Category | Technology |
 |-------|-----------|
