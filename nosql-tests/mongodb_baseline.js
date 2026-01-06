@@ -1,4 +1,4 @@
-//Benchmark Query
+//Baseline Query
 print("Speed Test")
 
 var explainResult = db.employee_records.find({ 
