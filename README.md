@@ -69,18 +69,19 @@ The benchmark simulates **real-world enterprise scenarios** where sensitive attr
 ---
 
 ## Repository Structure
+```text
 database-security-scalability-benchmark/
 ├── mysql-tests/
-│ ├── data_generator.sql
-│ └── benchmark.sql
+│   ├── data_generator.sql
+│   └── benchmark.sql
 ├── mongodb-tests/
-│ ├── data_generator.js
-│ └── benchmark.js
+│   ├── data_generator.js
+│   └── benchmark.js
 ├── docs/
-│ ├── query-latency.png
-│ └── storage-comparison.png
+│   ├── query-latency.png
+│   └── storage-comparison.png
 └── README.md
-
+```
 ## Sample Benchmark Results (5M Records)
 
 ## 📊 Sample Benchmark Results (5M Records)
