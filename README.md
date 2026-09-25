@@ -1,6 +1,6 @@
 <div align="center">
 
-# Database Encryption & Scalability Benchmark
+# Group 69 Database Encryption Techniques and Performance Impact in DBMS
 ### MySQL vs. MongoDB Across 5 Million Records
 
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-00758F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
